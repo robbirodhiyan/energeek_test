@@ -24,7 +24,7 @@
 					}
 				},
 				"url": {
-					"raw": "https://energeek-app-todo.test/api/users",
+					"raw": "http://energeek-app-todo.test/api/users",
 					"protocol": "https",
 					"host": [
 						"energeek-app-todo",
@@ -56,7 +56,7 @@
 					}
 				},
 				"url": {
-					"raw": "https://energeek-app-todo.test/api/users/1",
+					"raw": "http://energeek-app-todo.test/api/users/1",
 					"protocol": "https",
 					"host": [
 						"energeek-app-todo",
@@ -86,7 +86,7 @@
 					}
 				},
 				"url": {
-					"raw": "https://energeek-app-todo.test/api/users",
+					"raw": "http://energeek-app-todo.test/api/users",
 					"protocol": "https",
 					"host": [
 						"energeek-app-todo",
@@ -115,7 +115,7 @@
 					}
 				},
 				"url": {
-					"raw": "https://energeek-app-todo.test/api/users/1",
+					"raw": "http://energeek-app-todo.test/api/users/1",
 					"protocol": "https",
 					"host": [
 						"energeek-app-todo",
@@ -148,7 +148,7 @@
 					}
 				},
 				"url": {
-					"raw": "https://energeek-app-todo.test/api/tasks",
+					"raw": "http://energeek-app-todo.test/api/tasks",
 					"protocol": "https",
 					"host": [
 						"energeek-app-todo",
@@ -177,7 +177,7 @@
 					}
 				},
 				"url": {
-					"raw": "https://energeek-app-todo.test/api/tasks",
+					"raw": "http://energeek-app-todo.test/api/tasks",
 					"protocol": "https",
 					"host": [
 						"energeek-app-todo",
@@ -206,7 +206,7 @@
 					}
 				},
 				"url": {
-					"raw": "https://energeek-app-todo.test/api/tasks/1",
+					"raw": "http://energeek-app-todo.test/api/tasks/1",
 					"protocol": "https",
 					"host": [
 						"energeek-app-todo",
@@ -239,7 +239,7 @@
 					}
 				},
 				"url": {
-					"raw": "https://energeek-app-todo.test/api/categories",
+					"raw": "http://energeek-app-todo.test/api/categories",
 					"protocol": "https",
 					"host": [
 						"energeek-app-todo",
