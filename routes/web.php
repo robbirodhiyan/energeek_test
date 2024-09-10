@@ -16,6 +16,6 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [IndexController::class, 'index'])->name('todo.index'); // Menampilkan halaman to-do list
-Route::post('/tasks', [IndexController::class, 'store'])->name('todo.store'); // Menyimpan user dan tugas baru
-Route::put('/tasks/{id}', [IndexController::class, 'update'])->name('todo.update'); // Memperbarui tugas
-Route::delete('/tasks/{id}', [IndexController::class, 'destroy'])->name('todo.destroy'); // Menghapus tugas
+Route::post('/todo', [IndexController::class, 'store'])->name('todo.store'); // Menyimpan user dan tugas baru
+Route::put('/todo/{id}', [IndexController::class, 'update'])->name('todo.update'); // Memperbarui tugas
+Route::delete('/todo/{id}', [IndexController::class, 'destroy'])->name('todo.destroy'); // Menghapus tugas
